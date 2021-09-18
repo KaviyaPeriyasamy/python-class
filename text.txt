@@ -1,0 +1,15 @@
+git init - Initialize
+git remote add repo git link - Remote sync
+git fetch upstream - Main branch local
+git checkout main - errorless 
+git pull
+git status
+main
+git checkout -b "branch name"
+git status
+raj
+file creation
+git add .
+git commit -m "message"
+git push repo
+git push --set-upstream repo master
